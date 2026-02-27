@@ -32,9 +32,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousseffsanafawy&theme=transparent&hide_border=true&title_color=38B2AC&text_color=a0a0a0&sideNums=38B2AC&sideLabels=a0a0a0&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" />
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yousseffsanafawy&theme=transparent&hide_border=true&title_color=38B2AC&text_color=a0a0a0&sideNums=38B2AC&sideLabels=a0a0a0&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" />
-
-<br>
 
 ### ⚙️ Current Operations
 
