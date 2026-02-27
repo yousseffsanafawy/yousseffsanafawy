@@ -21,16 +21,16 @@
 
 ### 📊 Real-Time Development Metrics
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yousseffsanafawy&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=a0a0a0" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffsanafawy&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=a0a0a0" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yousseffsanafawy&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=a0a0a0" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffsanafawy&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=a0a0a0" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousseffsanafawy&theme=transparent&hide_border=true&title_color=38B2AC&text_color=a0a0a0&sideNums=38B2AC&sideLabels=a0a0a0&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" />
+</div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousseffsanafawy&theme=transparent&hide_border=true&title_color=38B2AC&text_color=a0a0a0&sideNums=38B2AC&sideLabels=a0a0a0&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" />
 
